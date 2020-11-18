@@ -6,11 +6,14 @@
   "appUrl": "http://localhost:3000",
   "clientUrl": "http://localhost:3000",
   "taskTypes": [
-    "Enhancement",
-    "Bug",
+    "Internal Meeting",
+    "Customer Meeting",
+    "Enablement",
+    "Marketing",
+    "PTO",
     "Other"
   ],
-  "defaultAdminEmail": "workplace-admin@company.com",
-  "allowEmailDomains": ["gmail.com", "company.com"],
-  "defaultEmailDomain": "company.com"
+  "defaultAdminEmail": "skale@redhat.com",
+  "allowEmailDomains": ["gmail.com", "redhat.com"],
+  "defaultEmailDomain": "redhat.com"
 }
